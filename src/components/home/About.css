@@ -1,0 +1,22 @@
+.about-container{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title{
+    text-align: left;
+    font-style: normal;
+    font-weight: 600;
+    color: #088608;
+    margin-bottom: 7%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.about-text{
+    text-align: left;
+}
+
+.photo-container{
+    margin-top: 6%;
+    filter: brightness(50%);
+}

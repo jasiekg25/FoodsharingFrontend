@@ -1,0 +1,20 @@
+.rules-container{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.rules-text{
+    text-align: center;
+}
+
+.cards-container{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.card{
+    background: #CBCBCB;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}

@@ -1,0 +1,12 @@
+.navbar-container{
+    background: #E8E9E7;
+    opacity: 80%;
+    height: 15%;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+.mr-auto{
+    margin-left: 10%;
+}

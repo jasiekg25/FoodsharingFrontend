@@ -1,0 +1,25 @@
+body, html {
+    font-family: "Montserrat", sans-serif;
+    background: #E8E9E7;
+}
+
+.home-container{
+    height: 40rem;
+    background-image: url("../../images/home_background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+
+.home-text{
+    width: 30%;
+    padding-top: 20%;
+    margin-left: 24%;
+}
+
+.login-button{
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
